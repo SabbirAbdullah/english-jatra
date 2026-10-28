@@ -1,0 +1,516 @@
+﻿row,column,severity,code,message
+136,quiz_options,info,QUIZ_ANSWER_CONTAINS_DELIMITER,Correct answer contains the list delimiter; treated as a single option.
+154,quiz_options,info,QUIZ_ANSWER_CONTAINS_DELIMITER,Correct answer contains the list delimiter; treated as a single option.
+167,quiz_options,info,QUIZ_ANSWER_CONTAINS_DELIMITER,Correct answer contains the list delimiter; treated as a single option.
+1,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+1,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+1,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+1,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+1,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+2,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+2,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+2,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+3,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+3,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+3,example_sentence,warning,ARTICLE_AGREEMENT,Example sentence has an a/an mismatch.
+3,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+4,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+4,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+4,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+5,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+5,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+5,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+5,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+6,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+6,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+7,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+7,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+7,example_sentence,warning,ARTICLE_AGREEMENT,Example sentence has an a/an mismatch.
+7,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+8,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+8,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+8,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+8,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+9,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+9,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+9,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+10,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+10,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+10,example_sentence,warning,ARTICLE_AGREEMENT,Example sentence has an a/an mismatch.
+10,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+11,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+11,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+11,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+12,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+12,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+12,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+12,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+12,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+13,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+13,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+14,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+14,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+14,example_sentence,warning,ARTICLE_AGREEMENT,Example sentence has an a/an mismatch.
+14,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+15,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+15,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+15,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+16,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+16,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+16,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+17,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+17,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+17,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+18,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+18,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+18,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+18,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+19,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+19,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+19,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+19,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+20,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+20,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+20,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+20,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+21,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+21,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+21,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+21,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+22,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+22,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+22,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+23,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+23,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+23,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+24,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+24,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+25,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+25,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+25,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+25,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+26,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+26,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+26,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+27,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+27,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+27,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+28,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+28,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+28,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+29,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+29,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+29,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+29,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+30,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+30,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+30,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+31,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+31,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+31,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+32,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+32,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+33,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+33,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+33,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+33,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+34,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+34,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+34,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+34,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+35,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+35,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+35,example_sentence,warning,ARTICLE_AGREEMENT,Example sentence has an a/an mismatch.
+36,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+36,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+36,example_sentence,warning,ARTICLE_AGREEMENT,Example sentence has an a/an mismatch.
+36,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+37,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+37,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+38,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+38,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+38,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+38,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+39,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+39,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+39,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+39,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+40,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+40,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+40,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+40,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+41,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+41,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+42,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+42,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+42,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+43,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+43,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+43,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+43,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+43,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+44,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+44,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+44,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+45,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+45,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+45,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+45,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+46,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+46,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+47,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+47,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+47,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+47,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+47,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+48,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+48,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+48,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+49,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+49,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+50,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+50,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+51,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+51,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+51,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+52,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+52,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+53,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+53,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+53,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+53,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+54,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+54,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+54,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+54,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+55,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+55,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+55,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+56,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+56,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+56,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+57,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+57,example_sentence,warning,ARTICLE_AGREEMENT,Example sentence has an a/an mismatch.
+57,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+58,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+58,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+58,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+59,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+59,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+59,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+60,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+60,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+61,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+61,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+62,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+62,example_sentence,warning,ARTICLE_AGREEMENT,Example sentence has an a/an mismatch.
+62,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+63,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+63,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+63,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+63,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+63,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+64,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+64,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+65,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+65,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+65,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+66,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+66,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+66,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+67,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+67,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+68,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+68,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+68,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+69,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+69,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+69,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+69,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+70,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+70,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+71,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+71,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+71,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+72,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+72,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+72,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+72,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+73,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+73,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+73,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+74,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+74,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+74,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+75,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+75,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+75,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+76,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+76,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+76,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+76,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+76,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+77,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+77,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+77,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+78,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+78,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+78,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+79,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+79,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+79,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+80,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+80,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+80,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+80,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+81,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+81,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+82,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+82,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+82,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+83,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+83,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+83,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+83,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+84,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+84,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+85,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+85,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+85,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+86,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+86,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+86,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+87,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+87,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+87,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+88,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+88,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+88,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+89,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+89,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+89,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+90,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+90,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+90,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+91,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+91,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+91,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+91,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+92,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+92,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+93,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+93,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+94,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+94,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+94,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+95,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+95,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+95,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+96,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+96,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+96,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+97,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+97,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+97,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+97,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+98,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+98,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+98,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+99,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+99,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+100,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+100,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+100,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+100,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+101,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+101,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+101,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+102,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+102,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+102,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+103,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+103,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+104,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+104,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+105,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+105,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+105,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+105,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+106,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+106,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+107,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+107,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+107,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+108,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+108,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+109,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+109,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+109,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+109,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+110,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+110,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+110,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+111,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+111,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+111,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+112,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+112,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+113,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+113,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+113,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+113,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+114,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+114,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+115,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+115,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+115,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+116,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+116,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+116,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+117,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+117,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+118,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+118,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+119,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+119,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+120,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+120,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+121,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+121,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+121,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+121,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+122,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+122,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+123,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+123,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+124,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+124,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+124,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+125,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+125,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+125,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+126,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+126,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+126,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+127,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+127,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+127,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+128,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+128,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+129,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+129,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+129,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+130,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+130,example_sentence,warning,ARTICLE_AGREEMENT,Example sentence has an a/an mismatch.
+130,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+131,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+131,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+131,example_sentence,warning,ARTICLE_AGREEMENT,Example sentence has an a/an mismatch.
+131,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+132,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+132,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+132,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+132,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+132,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+133,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+133,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+133,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+134,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+134,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+134,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+135,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+135,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+136,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+136,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+136,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+136,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+137,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+137,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+137,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+137,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+137,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+138,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+138,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+139,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+139,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+140,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+140,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+141,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+141,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+141,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+142,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+142,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+142,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+143,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+143,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+144,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+144,example_sentence,warning,ARTICLE_AGREEMENT,Example sentence has an a/an mismatch.
+144,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+145,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+145,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+145,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+145,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+146,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+146,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+146,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+146,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+146,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+147,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+147,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+147,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+148,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+148,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+148,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+149,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+149,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+149,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+150,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+150,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+151,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+151,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+151,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+152,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+152,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+152,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+152,bengali_meaning,info,SHARED_BENGALI_MEANING,Same Bengali meaning as another word; Bengali-to-English questions would be ambiguous.
+153,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+153,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+154,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+154,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+155,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+155,quiz_options,warning,QUIZ_MIXED_LANGUAGE_OPTIONS,Bengali answer is offered alongside non-Bengali options.
+155,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+156,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+156,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+156,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+157,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+157,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+158,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+158,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+159,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+159,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+160,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+160,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+160,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+161,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+161,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+162,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+162,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+163,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+163,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+164,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+164,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+165,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+165,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+166,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+166,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+166,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+167,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+167,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+168,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+168,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+169,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+169,example_translation_bn,warning,AWKWARD_BENGALI_TRANSLATION,Bengali translation contains a doubled verb pattern; likely machine-templated. Needs editorial review.
+169,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.
+170,quiz_options,warning,QUIZ_PLACEHOLDER_OPTIONS,Quiz options contain generic placeholder distractors; regenerate before use in scored quizzes.
+170,example_sentence,warning,TEMPLATED_EXAMPLE,Example sentence is a shared template with only the headword swapped; may be unnatural for this word.

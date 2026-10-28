@@ -1,0 +1,25 @@
+{
+  "file": "english_vocabulary_batch_001_enhanced.csv",
+  "batch": "batch_001",
+  "mode": "skip",
+  "dryRun": true,
+  "detected": 170,
+  "wouldImport": 170,
+  "wouldUpdate": 0,
+  "skipped": 0,
+  "rejected": 0,
+  "conflicts": 0,
+  "errors": 0,
+  "issuesByCode": {
+    "QUIZ_ANSWER_CONTAINS_DELIMITER": 3,
+    "QUIZ_PLACEHOLDER_OPTIONS": 170,
+    "QUIZ_MIXED_LANGUAGE_OPTIONS": 89,
+    "AWKWARD_BENGALI_TRANSLATION": 57,
+    "TEMPLATED_EXAMPLE": 169,
+    "SHARED_BENGALI_MEANING": 16,
+    "ARTICLE_AGREEMENT": 11
+  },
+  "headerNotes": [
+    "Column \"category\" appears twice with identical values; the first is used and the duplicate is ignored."
+  ]
+}
