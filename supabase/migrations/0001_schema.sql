@@ -1,4 +1,4 @@
--- EnglishShikhi: core schema, indexes and Row Level Security.
+-- EnglishBoli: core schema, indexes and Row Level Security.
 -- Apply with: supabase db push   (or paste into the Supabase SQL editor)
 
 create extension if not exists pg_trgm;
