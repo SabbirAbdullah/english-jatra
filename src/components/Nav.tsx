@@ -36,7 +36,7 @@ export function Nav({ email, admin }: { email: string | null; admin: boolean }) 
     <>
       <aside className="fixed inset-y-0 left-0 z-40 hidden w-60 flex-col border-r border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-900 md:flex">
         <Link href="/" className="mb-6 flex items-center gap-2 px-2 text-lg font-bold">
-          <img src="/templates/EnglishJani_logo.svg" alt="" aria-hidden="true" className="h-8 w-8 rounded-lg object-cover" />
+          <img src="/templates/EnglishJatra_logo.svg" alt="" aria-hidden="true" className="h-8 w-8 rounded-lg object-cover" />
           <span>EnglishJatra</span>
         </Link>
         <nav aria-label="Main" className="flex flex-1 flex-col gap-1">{items.map(link)}</nav>

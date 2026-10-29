@@ -1,4 +1,4 @@
-# English Jani — complete setup, import and deployment guide
+# EnglishJatra — complete setup, import and deployment guide
 
 Everything below is in the order you should do it. Total time: about 45 minutes.
 
@@ -7,7 +7,7 @@ Everything below is in the order you should do it. Total time: about 45 minutes.
 
 ## 1. Run the project locally
 ```bash
-cd english-boli
+cd englishjatra
 npm install
 npm test            # 36 tests, no database needed
 npm run typecheck
@@ -90,9 +90,9 @@ Admin → **Words** → tick “Only entries with review flags”. Edit an entry
 
 ## 10. Put the code on GitHub
 ```bash
-git init && git add . && git commit -m "English Jani"
+git init && git add . && git commit -m "EnglishJatra"
 git branch -M main
-git remote add origin https://github.com/YOUR-USER/english-boli.git
+git remote add origin https://github.com/YOUR-USER/englishjatra.git
 git push -u origin main
 ```
 `.gitignore` already excludes `.env.local` and `node_modules`. Confirm no key appears in `git status` before pushing.

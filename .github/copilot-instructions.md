@@ -1,4 +1,4 @@
-# Copilot instructions for English Jani
+# Copilot instructions for EnglishJatra
 
 Start with [docs/GUIDE.md](../docs/GUIDE.md) for Supabase setup, admin access, CSV import, migrations, and deployment.
 
