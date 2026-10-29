@@ -1,4 +1,4 @@
-# EnglishBoli — complete setup, import and deployment guide
+# English Jani — complete setup, import and deployment guide
 
 Everything below is in the order you should do it. Total time: about 45 minutes.
 
@@ -90,7 +90,7 @@ Admin → **Words** → tick “Only entries with review flags”. Edit an entry
 
 ## 10. Put the code on GitHub
 ```bash
-git init && git add . && git commit -m "EnglishBoli"
+git init && git add . && git commit -m "English Jani"
 git branch -M main
 git remote add origin https://github.com/YOUR-USER/english-boli.git
 git push -u origin main

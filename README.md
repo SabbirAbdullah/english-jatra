@@ -1,4 +1,4 @@
-# EnglishBoli
+# English Jani
 
 English vocabulary, spoken English and IELTS practice for Bengali-speaking learners. Next.js 15 (App Router, TypeScript), Tailwind, Supabase (Postgres, Auth, RLS).
 

@@ -36,8 +36,8 @@ export function Nav({ email, admin }: { email: string | null; admin: boolean }) 
     <>
       <aside className="fixed inset-y-0 left-0 z-40 hidden w-60 flex-col border-r border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-900 md:flex">
         <Link href="/" className="mb-6 flex items-center gap-2 px-2 text-lg font-bold">
-          <img src="/templates/EnglishBoli_logo.svg" alt="" aria-hidden="true" className="h-8 w-8 rounded-lg object-cover" />
-          <span>EnglishBoli</span>
+          <img src="/templates/EnglishJani_logo.svg" alt="" aria-hidden="true" className="h-8 w-8 rounded-lg object-cover" />
+          <span>EnglishJatra</span>
         </Link>
         <nav aria-label="Main" className="flex flex-1 flex-col gap-1">{items.map(link)}</nav>
         <p className="px-2 text-xs muted">Guests can browse words. Sign in to save progress.</p>
@@ -47,7 +47,7 @@ export function Nav({ email, admin }: { email: string | null; admin: boolean }) 
           <summary className="btn-ghost cursor-pointer list-none !px-2.5" aria-label="Menu"><Menu size={18} /></summary>
           <div className="absolute left-0 top-11 w-56 rounded-xl border border-slate-200 bg-white p-2 shadow-lg dark:border-slate-700 dark:bg-slate-900">{items.map(link)}</div>
         </details>
-        <Link href="/" className="font-bold md:hidden">EnglishBoli</Link>
+        <Link href="/" className="font-bold md:hidden">EnglishJatra</Link>
         <div className="ml-auto flex items-center gap-2"><ThemeToggle />{account}</div>
       </header>
       <nav aria-label="Quick" className="fixed inset-x-0 bottom-0 z-30 grid grid-cols-5 border-t border-slate-200 bg-white pb-[env(safe-area-inset-bottom)] dark:border-slate-800 dark:bg-slate-900 md:hidden">

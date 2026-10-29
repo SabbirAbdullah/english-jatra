@@ -5,7 +5,7 @@ import { Nav } from "@/components/Nav";
 import { getUser, isAdmin } from "@/lib/auth";
 import { isConfigured } from "@/lib/supabase/server";
 
-export const metadata: Metadata = { title: { default: "EnglishBoli", template: "%s · EnglishBoli" }, description: "English vocabulary, spoken English and IELTS practice for Bengali-speaking learners." };
+export const metadata: Metadata = { title: { default: "English Jani", template: "%s · English Jani" }, description: "English vocabulary, spoken English and IELTS practice for Bengali-speaking learners." };
 
 const THEME_SCRIPT = `(function(){try{var m=document.cookie.match(/(?:^|; )theme=(\\w+)/);var t=m?m[1]:'system';if(t==='dark'||(t==='system'&&matchMedia('(prefers-color-scheme: dark)').matches))document.documentElement.classList.add('dark')}catch(e){}})()`;
 
